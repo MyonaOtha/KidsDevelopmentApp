@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Base2 1.0
+---------------------------------------------------
+
+app_name - 						Base2
+app_alias - 					base2
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Eastern Cape
+app_author_country - 			South Africa
+app_password - 					wRhG7HlKy6NZ
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 7th of October 2023 03:50:50 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
